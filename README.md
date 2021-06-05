@@ -16,7 +16,7 @@ More specifically, I tried to answer the following three questions:
 * one csv file, containing all data needed
 
 ## Results
-The main findings of the code are summarized at this post.
+The main findings of the code are summarized at [this post](https://medium.com/@joyybai/how-can-an-airbnb-in-nyc-get-high-review-scores-44e48ba44817).
 
 ## Licensing
 As mentioned above, the data is from Inside Airbnb which is available under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license. Otherwise, feel free to use the code here as you like!
